@@ -130,6 +130,10 @@ body {
   display: flex;
 }
 
+.mobileView{
+  display: flex;
+}
+
 .Fbook {
   height: auto;
   width: 10em;
